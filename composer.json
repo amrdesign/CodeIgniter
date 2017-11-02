@@ -2,6 +2,7 @@
 	"description": "The CodeIgniter framework",
 	"name": "codeigniter/framework",
 	"type": "project",
+	"version" : "3.1",
 	"homepage": "https://codeigniter.com",
 	"license": "MIT",
 	"support": {
